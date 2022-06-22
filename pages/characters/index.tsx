@@ -1,5 +1,5 @@
 import Link from "next/link";
-import List from "../../components/List/List";
+import List from "../../src/components/List/List";
 
 const Dummy_List = [
   {
